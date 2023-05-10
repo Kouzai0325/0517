@@ -1,4 +1,5 @@
 <?php
+$test = "test表示";
 class animal{
     public $name,$type,$gender,$age;
     public function __construct($name,$type,$gender,$age){
